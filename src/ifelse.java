@@ -16,8 +16,6 @@ class Ifelse {
 
         if ( x >= 18){
             System.out.print("You can Vote");
-        } else {
-            System.out.print("You can't vote");
-        }
+        } else { System.out.print("You can't vote"); }
     }
 }
